@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="4d7fbf74-b5e6-421b-856d-b0a090fe0a7c" Title="Laboratory1 Namespace" Url="html/c61bbbdb-e15b-bc77-08b2-2b1315d9e923.htm">
+    <HelpTOCNode Id="b3682498-85ce-4816-8797-4cb6b8cfcc6e" Title="AStarSearch Class" Url="html/24985e32-ad35-1ba6-af34-c31069f837a5.htm">
+      <HelpTOCNode Title="AStarSearch Members" Url="html/1d39fcd7-10ef-a2f9-33a8-901cb5255a58.htm" />
+      <HelpTOCNode Title="AStarSearch Constructor " Url="html/7b0c6157-3468-9dc5-ae8f-e776238cf842.htm" />
+      <HelpTOCNode Id="fc91a8fc-78a8-4ea9-8d2b-fb85741997c8" Title="AStarSearch Fields" Url="html/1c32dc12-e0aa-2c6e-1cc4-002593ca16f7.htm">
+        <HelpTOCNode Title="closed Field" Url="html/1b976b8b-22ce-fada-aedc-567f8b004b20.htm" />
+        <HelpTOCNode Title="initialState Field" Url="html/a0afcaef-134c-ed9b-dd5e-2aef8ee36897.htm" />
+        <HelpTOCNode Title="isStopAfterFirstSolution Field" Url="html/df67937e-5e30-daa8-06fb-8677651bbc84.htm" />
+        <HelpTOCNode Title="isStopAfterSecondSolution Field" Url="html/78d1016c-bc25-12c3-2b4f-9b4e0bf589fd.htm" />
+        <HelpTOCNode Title="open Field" Url="html/53e50d43-f7b6-54dc-031c-f7dc14d25774.htm" />
+        <HelpTOCNode Title="solutions Field" Url="html/90e7293b-07ec-0925-bb88-8ea091518a9c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="066d13da-5e28-4c9b-a718-87f9c4ec255f" Title="AStarSearch Methods" Url="html/b398acf7-689a-b883-eff2-c466dd27f7de.htm">
+        <HelpTOCNode Title="buildChildren Method " Url="html/cb6d47c2-1a4a-5f1d-8737-414fd05790fd.htm" />
+        <HelpTOCNode Title="DoSearch Method " Url="html/7623d98e-54fe-62ed-e32e-61bf2ef6b572.htm" />
+        <HelpTOCNode Title="isSolution Method " Url="html/4fe0497c-e761-1da6-a017-cce246d7ea11.htm" />
+        <HelpTOCNode Title="registerSolution Method " Url="html/a8a7f39d-468f-c0fa-9a8a-e19a672ae980.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c95d0be9-a1bd-4476-baaf-aaf1170fd134" Title="AStarSearch Properties" Url="html/428684bd-8448-3ba2-7f43-efcd08018920.htm">
+        <HelpTOCNode Title="Closed Property " Url="html/e7f86ebb-b002-88e4-9945-dc15a602da1e.htm" />
+        <HelpTOCNode Title="Solutions Property " Url="html/4e703611-3507-8beb-9345-96d765f9a7d3.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8f3ba697-eff3-4d49-a5ac-0b44bf62499e" Title="IState Interface" Url="html/f0a3cb67-0205-4a8f-c280-e59c6a02233e.htm">
+      <HelpTOCNode Title="IState Members" Url="html/6a1277c3-ec18-076a-baaa-f7b4a82f408c.htm" />
+      <HelpTOCNode Id="d7fc7ef6-217a-4314-b24b-76f2b6da7eed" Title="IState Methods" Url="html/bae88325-e7e9-1ff1-36dc-fc38510c6e72.htm">
+        <HelpTOCNode Title="ComputeHeuristicGrade Method " Url="html/5847f82c-db42-1255-0e2d-511a2c868ae3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d323f403-ef29-4527-a71c-c6e68789269e" Title="IState Properties" Url="html/d4ebcac0-69b9-532e-ed7c-cd9baab831c8.htm">
+        <HelpTOCNode Title="Alpha Property " Url="html/80f93395-92cb-36dd-5f9e-82b54c0f42a5.htm" />
+        <HelpTOCNode Title="Beta Property " Url="html/98104262-2c63-b238-a98f-f8d877ff283d.htm" />
+        <HelpTOCNode Title="Children Property " Url="html/1deb4dfc-b3d1-74a1-0ab0-29d92a211ff0.htm" />
+        <HelpTOCNode Title="Depth Property " Url="html/ed392247-d007-7c04-801d-977bfa1d9aa6.htm" />
+        <HelpTOCNode Title="F Property " Url="html/62e04d48-4b2e-a6b0-0e35-c628c741e121.htm" />
+        <HelpTOCNode Title="G Property " Url="html/519ddf29-5484-b5a5-5992-e7998cd992e5.htm" />
+        <HelpTOCNode Title="H Property " Url="html/b61f8b73-3d0d-37e4-bc58-4413ba0f948e.htm" />
+        <HelpTOCNode Title="ID Property " Url="html/cafd99e5-1170-ce9b-918f-2a830c59f3c7.htm" />
+        <HelpTOCNode Title="IsAdmissible Property " Url="html/c1bb0ccd-d78f-74e4-7285-749662efd601.htm" />
+        <HelpTOCNode Title="Parent Property " Url="html/491da332-bc7e-18d2-b2a0-45ee34e207e3.htm" />
+        <HelpTOCNode Title="RootMove Property " Url="html/584e24b3-84e6-b855-40a6-2c415fab85af.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="eeff603a-0dbb-44d4-badc-88cd0022d197" Title="State Class" Url="html/c46ad6c7-17a3-82c4-fc1f-5cd226f87047.htm">
+      <HelpTOCNode Title="State Members" Url="html/fbe5e778-08e7-bb1e-7cbb-3f6a08eef2fe.htm" />
+      <HelpTOCNode Id="9d9819d4-e365-4d3b-b3ca-888f3802967d" Title="State Constructor " Url="html/a60e6b89-6a26-5bda-461e-e2c16f6d3a91.htm">
+        <HelpTOCNode Title="State Constructor " Url="html/324f6a13-3f68-ce92-f712-9a32b8082d82.htm" />
+        <HelpTOCNode Title="State Constructor (IState)" Url="html/37af5ad9-0fe7-ff22-73e6-d0291913a0e5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1177ecd2-99a4-4abc-8165-fe8433fca0cf" Title="State Fields" Url="html/21eb1d19-9dfd-a377-0f16-ddb49e6ed393.htm">
+        <HelpTOCNode Title="children Field" Url="html/f829932c-60ed-0a3d-d574-93f5d75b14a3.htm" />
+        <HelpTOCNode Title="depth Field" Url="html/628bd7a3-61cf-0ab7-d2e1-451850e52b41.htm" />
+        <HelpTOCNode Title="g Field" Url="html/dfbaca75-e9f7-8a40-73ec-23f9e3ec3724.htm" />
+        <HelpTOCNode Title="h Field" Url="html/d32a3632-6c79-b4aa-f1f3-d417217dece0.htm" />
+        <HelpTOCNode Title="id Field" Url="html/8d7f7b7c-da87-2053-c239-28a8dc0f948e.htm" />
+        <HelpTOCNode Title="isAdmissible Field" Url="html/c3d08f69-7e9c-2fd5-7d24-4d4f04685521.htm" />
+        <HelpTOCNode Title="parent Field" Url="html/d8ab907f-792e-d04e-7b99-a5022843c68a.htm" />
+        <HelpTOCNode Title="rootMove Field" Url="html/bd5f27ea-2f8c-d550-7e17-417aab5e509e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0a60cc64-3ad2-46f5-9ad1-27aa561f9291" Title="State Methods" Url="html/aba58141-1208-9d03-658b-3420e8a87a98.htm">
+        <HelpTOCNode Title="CompareTo Method " Url="html/1cb92a6b-42a8-321c-6087-0c3f51776e1f.htm" />
+        <HelpTOCNode Title="ComputeHeuristicGrade Method " Url="html/129bc6e1-d100-3c1e-60e3-9bf8823c1b5c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7e9144cf-1a87-4f21-90dc-51e7ba28627e" Title="State Properties" Url="html/0d89928e-be61-5bd8-bd87-1a25e21e4eaf.htm">
+        <HelpTOCNode Title="Alpha Property " Url="html/a299eee8-9c6c-9e52-e0e8-76fa4a0b1de4.htm" />
+        <HelpTOCNode Title="Beta Property " Url="html/daf88540-aa30-594d-77c6-583824f156d1.htm" />
+        <HelpTOCNode Title="Children Property " Url="html/f4754dd1-0707-9df9-57d6-efecfe01589e.htm" />
+        <HelpTOCNode Title="Depth Property " Url="html/27e27484-a508-96cb-3722-0a3ce2c2961f.htm" />
+        <HelpTOCNode Title="F Property " Url="html/335edfef-b27a-7a7c-d3b2-731d5a2432a7.htm" />
+        <HelpTOCNode Title="G Property " Url="html/f5b0ba5a-32fe-aac1-7aee-1af80cccc9ba.htm" />
+        <HelpTOCNode Title="H Property " Url="html/ab384b00-2fb3-6c21-6d0c-8ac67fe6e15a.htm" />
+        <HelpTOCNode Title="ID Property " Url="html/d80a2f07-14ab-525e-e8e0-3d529660107a.htm" />
+        <HelpTOCNode Title="IsAdmissible Property " Url="html/6cb12bea-2f87-acda-1395-46d6c659d03b.htm" />
+        <HelpTOCNode Title="Parent Property " Url="html/006ea9a4-6815-de00-9620-be7ef9eab0da.htm" />
+        <HelpTOCNode Title="RootMove Property " Url="html/4faef194-402a-9da2-a3fd-00420d0f36a2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

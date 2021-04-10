@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+
+  <HelpKINode Title="Alpha property" Url="html/80f93395-92cb-36dd-5f9e-82b54c0f42a5.htm" />
+  <HelpKINode Title="Alpha property" Url="html/a299eee8-9c6c-9e52-e0e8-76fa4a0b1de4.htm" />
+  <HelpKINode Title="AStarSearch class" Url="html/1d39fcd7-10ef-a2f9-33a8-901cb5255a58.htm" />
+  <HelpKINode Title="AStarSearch class" Url="html/24985e32-ad35-1ba6-af34-c31069f837a5.htm" />
+  <HelpKINode Title="AStarSearch class">
+    <HelpKINode Title="about AStarSearch class" Url="html/24985e32-ad35-1ba6-af34-c31069f837a5.htm" />
+    <HelpKINode Title="all members" Url="html/1d39fcd7-10ef-a2f9-33a8-901cb5255a58.htm" />
+    <HelpKINode Title="constructor" Url="html/7b0c6157-3468-9dc5-ae8f-e776238cf842.htm" />
+    <HelpKINode Title="fields" Url="html/1c32dc12-e0aa-2c6e-1cc4-002593ca16f7.htm" />
+    <HelpKINode Title="methods" Url="html/b398acf7-689a-b883-eff2-c466dd27f7de.htm" />
+    <HelpKINode Title="properties" Url="html/428684bd-8448-3ba2-7f43-efcd08018920.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AStarSearch.AStarSearch constructor" Url="html/7b0c6157-3468-9dc5-ae8f-e776238cf842.htm" />
+  <HelpKINode Title="AStarSearch.buildChildren method" Url="html/cb6d47c2-1a4a-5f1d-8737-414fd05790fd.htm" />
+  <HelpKINode Title="AStarSearch.closed field" Url="html/1b976b8b-22ce-fada-aedc-567f8b004b20.htm" />
+  <HelpKINode Title="AStarSearch.Closed property" Url="html/e7f86ebb-b002-88e4-9945-dc15a602da1e.htm" />
+  <HelpKINode Title="AStarSearch.DoSearch method" Url="html/7623d98e-54fe-62ed-e32e-61bf2ef6b572.htm" />
+  <HelpKINode Title="AStarSearch.initialState field" Url="html/a0afcaef-134c-ed9b-dd5e-2aef8ee36897.htm" />
+  <HelpKINode Title="AStarSearch.isSolution method" Url="html/4fe0497c-e761-1da6-a017-cce246d7ea11.htm" />
+  <HelpKINode Title="AStarSearch.isStopAfterFirstSolution field" Url="html/df67937e-5e30-daa8-06fb-8677651bbc84.htm" />
+  <HelpKINode Title="AStarSearch.isStopAfterSecondSolution field" Url="html/78d1016c-bc25-12c3-2b4f-9b4e0bf589fd.htm" />
+  <HelpKINode Title="AStarSearch.open field" Url="html/53e50d43-f7b6-54dc-031c-f7dc14d25774.htm" />
+  <HelpKINode Title="AStarSearch.registerSolution method" Url="html/a8a7f39d-468f-c0fa-9a8a-e19a672ae980.htm" />
+  <HelpKINode Title="AStarSearch.solutions field" Url="html/90e7293b-07ec-0925-bb88-8ea091518a9c.htm" />
+  <HelpKINode Title="AStarSearch.Solutions property" Url="html/4e703611-3507-8beb-9345-96d765f9a7d3.htm" />
+  <HelpKINode Title="Beta property" Url="html/98104262-2c63-b238-a98f-f8d877ff283d.htm" />
+  <HelpKINode Title="Beta property" Url="html/daf88540-aa30-594d-77c6-583824f156d1.htm" />
+  <HelpKINode Title="buildChildren method" Url="html/cb6d47c2-1a4a-5f1d-8737-414fd05790fd.htm" />
+  <HelpKINode Title="children field" Url="html/f829932c-60ed-0a3d-d574-93f5d75b14a3.htm" />
+  <HelpKINode Title="Children property" Url="html/1deb4dfc-b3d1-74a1-0ab0-29d92a211ff0.htm" />
+  <HelpKINode Title="Children property" Url="html/f4754dd1-0707-9df9-57d6-efecfe01589e.htm" />
+  <HelpKINode Title="closed field" Url="html/1b976b8b-22ce-fada-aedc-567f8b004b20.htm" />
+  <HelpKINode Title="Closed property" Url="html/e7f86ebb-b002-88e4-9945-dc15a602da1e.htm" />
+  <HelpKINode Title="CompareTo method" Url="html/1cb92a6b-42a8-321c-6087-0c3f51776e1f.htm" />
+  <HelpKINode Title="ComputeHeuristicGrade method" Url="html/129bc6e1-d100-3c1e-60e3-9bf8823c1b5c.htm" />
+  <HelpKINode Title="ComputeHeuristicGrade method" Url="html/5847f82c-db42-1255-0e2d-511a2c868ae3.htm" />
+  <HelpKINode Title="depth field" Url="html/628bd7a3-61cf-0ab7-d2e1-451850e52b41.htm" />
+  <HelpKINode Title="Depth property" Url="html/27e27484-a508-96cb-3722-0a3ce2c2961f.htm" />
+  <HelpKINode Title="Depth property" Url="html/ed392247-d007-7c04-801d-977bfa1d9aa6.htm" />
+  <HelpKINode Title="DoSearch method" Url="html/7623d98e-54fe-62ed-e32e-61bf2ef6b572.htm" />
+  <HelpKINode Title="F property" Url="html/335edfef-b27a-7a7c-d3b2-731d5a2432a7.htm" />
+  <HelpKINode Title="F property" Url="html/62e04d48-4b2e-a6b0-0e35-c628c741e121.htm" />
+  <HelpKINode Title="g field" Url="html/dfbaca75-e9f7-8a40-73ec-23f9e3ec3724.htm" />
+  <HelpKINode Title="G property" Url="html/519ddf29-5484-b5a5-5992-e7998cd992e5.htm" />
+  <HelpKINode Title="G property" Url="html/f5b0ba5a-32fe-aac1-7aee-1af80cccc9ba.htm" />
+  <HelpKINode Title="h field" Url="html/d32a3632-6c79-b4aa-f1f3-d417217dece0.htm" />
+  <HelpKINode Title="H property" Url="html/ab384b00-2fb3-6c21-6d0c-8ac67fe6e15a.htm" />
+  <HelpKINode Title="H property" Url="html/b61f8b73-3d0d-37e4-bc58-4413ba0f948e.htm" />
+  <HelpKINode Title="id field" Url="html/8d7f7b7c-da87-2053-c239-28a8dc0f948e.htm" />
+  <HelpKINode Title="ID property" Url="html/cafd99e5-1170-ce9b-918f-2a830c59f3c7.htm" />
+  <HelpKINode Title="ID property" Url="html/d80a2f07-14ab-525e-e8e0-3d529660107a.htm" />
+  <HelpKINode Title="initialState field" Url="html/a0afcaef-134c-ed9b-dd5e-2aef8ee36897.htm" />
+  <HelpKINode Title="isAdmissible field" Url="html/c3d08f69-7e9c-2fd5-7d24-4d4f04685521.htm" />
+  <HelpKINode Title="IsAdmissible property" Url="html/6cb12bea-2f87-acda-1395-46d6c659d03b.htm" />
+  <HelpKINode Title="IsAdmissible property" Url="html/c1bb0ccd-d78f-74e4-7285-749662efd601.htm" />
+  <HelpKINode Title="isSolution method" Url="html/4fe0497c-e761-1da6-a017-cce246d7ea11.htm" />
+  <HelpKINode Title="isStopAfterFirstSolution field" Url="html/df67937e-5e30-daa8-06fb-8677651bbc84.htm" />
+  <HelpKINode Title="isStopAfterSecondSolution field" Url="html/78d1016c-bc25-12c3-2b4f-9b4e0bf589fd.htm" />
+  <HelpKINode Title="IState interface" Url="html/6a1277c3-ec18-076a-baaa-f7b4a82f408c.htm" />
+  <HelpKINode Title="IState interface" Url="html/f0a3cb67-0205-4a8f-c280-e59c6a02233e.htm" />
+  <HelpKINode Title="IState interface">
+    <HelpKINode Title="about IState interface" Url="html/f0a3cb67-0205-4a8f-c280-e59c6a02233e.htm" />
+    <HelpKINode Title="all members" Url="html/6a1277c3-ec18-076a-baaa-f7b4a82f408c.htm" />
+    <HelpKINode Title="methods" Url="html/bae88325-e7e9-1ff1-36dc-fc38510c6e72.htm" />
+    <HelpKINode Title="properties" Url="html/d4ebcac0-69b9-532e-ed7c-cd9baab831c8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IState.Alpha property" Url="html/80f93395-92cb-36dd-5f9e-82b54c0f42a5.htm" />
+  <HelpKINode Title="IState.Beta property" Url="html/98104262-2c63-b238-a98f-f8d877ff283d.htm" />
+  <HelpKINode Title="IState.Children property" Url="html/1deb4dfc-b3d1-74a1-0ab0-29d92a211ff0.htm" />
+  <HelpKINode Title="IState.ComputeHeuristicGrade method" Url="html/5847f82c-db42-1255-0e2d-511a2c868ae3.htm" />
+  <HelpKINode Title="IState.Depth property" Url="html/ed392247-d007-7c04-801d-977bfa1d9aa6.htm" />
+  <HelpKINode Title="IState.F property" Url="html/62e04d48-4b2e-a6b0-0e35-c628c741e121.htm" />
+  <HelpKINode Title="IState.G property" Url="html/519ddf29-5484-b5a5-5992-e7998cd992e5.htm" />
+  <HelpKINode Title="IState.H property" Url="html/b61f8b73-3d0d-37e4-bc58-4413ba0f948e.htm" />
+  <HelpKINode Title="IState.ID property" Url="html/cafd99e5-1170-ce9b-918f-2a830c59f3c7.htm" />
+  <HelpKINode Title="IState.IsAdmissible property" Url="html/c1bb0ccd-d78f-74e4-7285-749662efd601.htm" />
+  <HelpKINode Title="IState.Parent property" Url="html/491da332-bc7e-18d2-b2a0-45ee34e207e3.htm" />
+  <HelpKINode Title="IState.RootMove property" Url="html/584e24b3-84e6-b855-40a6-2c415fab85af.htm" />
+  <HelpKINode Title="Laboratory1 namespace" Url="html/c61bbbdb-e15b-bc77-08b2-2b1315d9e923.htm" />
+  <HelpKINode Title="Laboratory1.AStarSearch class" Url="html/1d39fcd7-10ef-a2f9-33a8-901cb5255a58.htm" />
+  <HelpKINode Title="Laboratory1.AStarSearch class" Url="html/24985e32-ad35-1ba6-af34-c31069f837a5.htm" />
+  <HelpKINode Title="Laboratory1.IState interface" Url="html/6a1277c3-ec18-076a-baaa-f7b4a82f408c.htm" />
+  <HelpKINode Title="Laboratory1.IState interface" Url="html/f0a3cb67-0205-4a8f-c280-e59c6a02233e.htm" />
+  <HelpKINode Title="Laboratory1.State class" Url="html/c46ad6c7-17a3-82c4-fc1f-5cd226f87047.htm" />
+  <HelpKINode Title="Laboratory1.State class" Url="html/fbe5e778-08e7-bb1e-7cbb-3f6a08eef2fe.htm" />
+  <HelpKINode Title="open field" Url="html/53e50d43-f7b6-54dc-031c-f7dc14d25774.htm" />
+  <HelpKINode Title="parent field" Url="html/d8ab907f-792e-d04e-7b99-a5022843c68a.htm" />
+  <HelpKINode Title="Parent property" Url="html/006ea9a4-6815-de00-9620-be7ef9eab0da.htm" />
+  <HelpKINode Title="Parent property" Url="html/491da332-bc7e-18d2-b2a0-45ee34e207e3.htm" />
+  <HelpKINode Title="registerSolution method" Url="html/a8a7f39d-468f-c0fa-9a8a-e19a672ae980.htm" />
+  <HelpKINode Title="rootMove field" Url="html/bd5f27ea-2f8c-d550-7e17-417aab5e509e.htm" />
+  <HelpKINode Title="RootMove property" Url="html/4faef194-402a-9da2-a3fd-00420d0f36a2.htm" />
+  <HelpKINode Title="RootMove property" Url="html/584e24b3-84e6-b855-40a6-2c415fab85af.htm" />
+  <HelpKINode Title="solutions field" Url="html/90e7293b-07ec-0925-bb88-8ea091518a9c.htm" />
+  <HelpKINode Title="Solutions property" Url="html/4e703611-3507-8beb-9345-96d765f9a7d3.htm" />
+  <HelpKINode Title="State class" Url="html/c46ad6c7-17a3-82c4-fc1f-5cd226f87047.htm" />
+  <HelpKINode Title="State class" Url="html/fbe5e778-08e7-bb1e-7cbb-3f6a08eef2fe.htm" />
+  <HelpKINode Title="State class">
+    <HelpKINode Title="about State class" Url="html/c46ad6c7-17a3-82c4-fc1f-5cd226f87047.htm" />
+    <HelpKINode Title="all members" Url="html/fbe5e778-08e7-bb1e-7cbb-3f6a08eef2fe.htm" />
+    <HelpKINode Title="constructor" Url="html/a60e6b89-6a26-5bda-461e-e2c16f6d3a91.htm" />
+    <HelpKINode Title="fields" Url="html/21eb1d19-9dfd-a377-0f16-ddb49e6ed393.htm" />
+    <HelpKINode Title="methods" Url="html/aba58141-1208-9d03-658b-3420e8a87a98.htm" />
+    <HelpKINode Title="properties" Url="html/0d89928e-be61-5bd8-bd87-1a25e21e4eaf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="State.Alpha property" Url="html/a299eee8-9c6c-9e52-e0e8-76fa4a0b1de4.htm" />
+  <HelpKINode Title="State.Beta property" Url="html/daf88540-aa30-594d-77c6-583824f156d1.htm" />
+  <HelpKINode Title="State.children field" Url="html/f829932c-60ed-0a3d-d574-93f5d75b14a3.htm" />
+  <HelpKINode Title="State.Children property" Url="html/f4754dd1-0707-9df9-57d6-efecfe01589e.htm" />
+  <HelpKINode Title="State.CompareTo method" Url="html/1cb92a6b-42a8-321c-6087-0c3f51776e1f.htm" />
+  <HelpKINode Title="State.ComputeHeuristicGrade method" Url="html/129bc6e1-d100-3c1e-60e3-9bf8823c1b5c.htm" />
+  <HelpKINode Title="State.depth field" Url="html/628bd7a3-61cf-0ab7-d2e1-451850e52b41.htm" />
+  <HelpKINode Title="State.Depth property" Url="html/27e27484-a508-96cb-3722-0a3ce2c2961f.htm" />
+  <HelpKINode Title="State.F property" Url="html/335edfef-b27a-7a7c-d3b2-731d5a2432a7.htm" />
+  <HelpKINode Title="State.g field" Url="html/dfbaca75-e9f7-8a40-73ec-23f9e3ec3724.htm" />
+  <HelpKINode Title="State.G property" Url="html/f5b0ba5a-32fe-aac1-7aee-1af80cccc9ba.htm" />
+  <HelpKINode Title="State.h field" Url="html/d32a3632-6c79-b4aa-f1f3-d417217dece0.htm" />
+  <HelpKINode Title="State.H property" Url="html/ab384b00-2fb3-6c21-6d0c-8ac67fe6e15a.htm" />
+  <HelpKINode Title="State.id field" Url="html/8d7f7b7c-da87-2053-c239-28a8dc0f948e.htm" />
+  <HelpKINode Title="State.ID property" Url="html/d80a2f07-14ab-525e-e8e0-3d529660107a.htm" />
+  <HelpKINode Title="State.isAdmissible field" Url="html/c3d08f69-7e9c-2fd5-7d24-4d4f04685521.htm" />
+  <HelpKINode Title="State.IsAdmissible property" Url="html/6cb12bea-2f87-acda-1395-46d6c659d03b.htm" />
+  <HelpKINode Title="State.parent field" Url="html/d8ab907f-792e-d04e-7b99-a5022843c68a.htm" />
+  <HelpKINode Title="State.Parent property" Url="html/006ea9a4-6815-de00-9620-be7ef9eab0da.htm" />
+  <HelpKINode Title="State.rootMove field" Url="html/bd5f27ea-2f8c-d550-7e17-417aab5e509e.htm" />
+  <HelpKINode Title="State.RootMove property" Url="html/4faef194-402a-9da2-a3fd-00420d0f36a2.htm" />
+  <HelpKINode Title="State.State constructor" Url="html/a60e6b89-6a26-5bda-461e-e2c16f6d3a91.htm" />
+</HelpKI>
